@@ -1,0 +1,17 @@
+code,name,pct_missing,status
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),3.64,PASS
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.64,PASS
+SP.POP.1564.TO.ZS,"Working-age population (% of total, ages 15-64)",0.0,PASS
+SP.URB.TOTL.IN.ZS,Urban population (% of total),0.0,PASS
+SP.POP.GROW,Population growth (annual %),0.0,PASS
+IT.NET.USER.ZS,Internet users (% of population),8.18,PASS
+IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),0.0,PASS
+FX.OWN.TOTL.ZS,Account ownership at financial institution/mobile (% age 15+),16.36,PASS
+GE.EST,"Government Effectiveness (WGI estimate, -2.5 to +2.5)",0.91,PASS
+RQ.EST,"Regulatory Quality (WGI estimate, -2.5 to +2.5)",0.91,PASS
+BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",5.45,PASS
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",10.0,PASS
+DT.DOD.DECT.GN.ZS,External debt stocks (% of GNI),9.09,PASS
+BN.CAB.XOKA.GD.ZS,Current account balance (% of GDP),13.64,PASS
+PV.EST,Political Stability & Absence of Violence (WGI estimate),0.91,PASS
+GDP_GROWTH_5Y_AVG,"GDP growth, 5-year trailing average (annual %)",1.82,PASS
